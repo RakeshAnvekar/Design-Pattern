@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jfErGY5ZSio=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Design-Pattern\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.3\\microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

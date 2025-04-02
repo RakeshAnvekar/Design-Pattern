@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\admin\\source\\repos\\designpatterns\\designpatterns\\singletondesignpattern\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\singletondesignpattern\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\admin\\source\\repos\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\admin\\source\\repos\\designpatterns\\designpatterns\\factorydesignpattern\\databaseconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\factorydesignpattern\\databaseconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\admin\\source\\repos\\designpatterns\\designpatterns\\factorydesignpattern\\mongodbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\factorydesignpattern\\mongodbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\admin\\source\\repos\\designpatterns\\designpatterns\\factorydesignpattern\\idatabaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\factorydesignpattern\\idatabaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\admin\\source\\repos\\designpatterns\\designpatterns\\adapterdesignpattern\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\adapterdesignpattern\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\admin\\source\\repos\\designpatterns\\designpatterns\\adapterdesignpattern\\paymentadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\adapterdesignpattern\\paymentadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\admin\\source\\repos\\designpatterns\\designpatterns\\adapterdesignpattern\\thirdpartypaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\adapterdesignpattern\\thirdpartypaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\admin\\source\\repos\\designpatterns\\designpatterns\\adapterdesignpattern\\ipaymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796ED1FE-A7BB-4AFA-8B3D-6343023585BA}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\adapterdesignpattern\\ipaymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\SingleTonDesignPattern\\DataBaseConnection.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\SingleTonDesignPattern\\DataBaseConnection.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\SingleTonDesignPattern\\DataBaseConnection.cs",
+              "RelativeToolTip": "DesignPatterns\\SingleTonDesignPattern\\DataBaseConnection.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvyMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:44:29.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoDbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\FactoryDesignPattern\\MongoDbConnection.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\FactoryDesignPattern\\MongoDbConnection.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\FactoryDesignPattern\\MongoDbConnection.cs",
+              "RelativeToolTip": "DesignPatterns\\FactoryDesignPattern\\MongoDbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:40:49.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataBaseConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\FactoryDesignPattern\\DataBaseConnectionFactory.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\FactoryDesignPattern\\DataBaseConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\FactoryDesignPattern\\DataBaseConnectionFactory.cs",
+              "RelativeToolTip": "DesignPatterns\\FactoryDesignPattern\\DataBaseConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:40:47.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeToolTip": "DesignPatterns\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:39:55.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDataBaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\FactoryDesignPattern\\IDataBaseConnection.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\FactoryDesignPattern\\IDataBaseConnection.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\FactoryDesignPattern\\IDataBaseConnection.cs",
+              "RelativeToolTip": "DesignPatterns\\FactoryDesignPattern\\IDataBaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:40:45.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\AdapterDesignPattern\\Client.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\AdapterDesignPattern\\Client.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\AdapterDesignPattern\\Client.cs",
+              "RelativeToolTip": "DesignPatterns\\AdapterDesignPattern\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:39:25.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThirdPartyPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\AdapterDesignPattern\\ThirdPartyPaymentService.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\AdapterDesignPattern\\ThirdPartyPaymentService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\AdapterDesignPattern\\ThirdPartyPaymentService.cs",
+              "RelativeToolTip": "DesignPatterns\\AdapterDesignPattern\\ThirdPartyPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:38:57.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\AdapterDesignPattern\\PaymentAdapter.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\AdapterDesignPattern\\PaymentAdapter.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\AdapterDesignPattern\\PaymentAdapter.cs",
+              "RelativeToolTip": "DesignPatterns\\AdapterDesignPattern\\PaymentAdapter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:38:54.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPaymentGateWay.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\AdapterDesignPattern\\IPaymentGateWay.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\AdapterDesignPattern\\IPaymentGateWay.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DesignPatterns\\DesignPatterns\\AdapterDesignPattern\\IPaymentGateWay.cs",
+              "RelativeToolTip": "DesignPatterns\\AdapterDesignPattern\\IPaymentGateWay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:38:51.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
